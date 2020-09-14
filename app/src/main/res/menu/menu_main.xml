@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/procesos"
+        android:title="Procesos"
+        android:icon="@drawable/ic_proceso"/>
+    <item
+        android:id="@+id/notificaciones"
+        android:title="Notificaciones"
+        android:icon="@drawable/ic_notifica"/>
+    <item
+        android:id="@+id/serrarsecion"
+        android:title="Serrar Sesion"
+        android:icon="@drawable/ic_out"/>
+</menu>
